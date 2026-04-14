@@ -20,5 +20,5 @@
 <img width="959" height="411" alt="image" src="https://github.com/user-attachments/assets/5fbea736-86e7-4bc8-9419-875beea431bf" />
 
 ## Dibuat Oleh
-Nama : Ziven Larendra
+Nama : Ziven Larendra\
 Kelas : XI RPL 3
